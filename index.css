@@ -1,0 +1,18 @@
+.choco {
+    text-align: center;
+    color: saddlebrown;
+    font-size: 50px;
+}
+
+.chocolatinho {
+    font-size: 30px;
+    text-align: center;
+    color: maroon;
+}
+
+.chocolate {
+    display: grid;
+    justify-content: center;
+    width: 300px;
+    align-items: center;
+}
